@@ -46,7 +46,7 @@ A Engenharia de Requisitos é uma disciplina fundamental no desenvolvimento de s
 * **Requisito de Interface:** O sistema de gerenciamento de recursos humanos deve ser capaz de se integrar ao sistema de contabilidade para registrar automaticamente os salários dos funcionários.
 
 * **Requisito de Usuário:** O sistema de agendamento de consultas médicas deve permitir que os pacientes marquem consultas online, visualizem seu histórico médico e recebam lembretes automáticos por e-mail ou SMS.
-* 
+
 
 <img src="https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-e-um-requisito-funcional-requisitos-de-software-exemplo.png" alt="Imagem de Requisitos Funcionais" width="508px">
 
@@ -80,3 +80,12 @@ A Engenharia de Requisitos é uma disciplina fundamental no desenvolvimento de s
 | 25    | Documentação Técnica                                           | Utilizar ferramentas como Microsoft Word ou Javadoc para criar documentos técnicos detalhados sobre o projeto de software.                               |
 | 26    | Organização de Documentos                                      | Utilizar ferramentas como Google Drive ou SharePoint para armazenar e organizar documentos relacionados ao projeto.                                       |
 | 27    | Revisão de Documentos                                          | Utilizar ferramentas como Google Docs ou Adobe Acrobat para revisar e aprovar documentos antes da distribuição final.                                     |
+
+
+<img src="https://venngage-wordpress.s3.amazonaws.com/uploads/2022/02/Blue-Travel-Business-Use-Case-Template.png" alt="USE CASE" width="508px">
+
+# Links para sites explicativos:
+
+ [Wikipédia: resumo sobre Use Case;](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+ 
+ [DevMedia: Introdução à Engenharia de Requisitos;](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
