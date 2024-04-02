@@ -46,6 +46,37 @@ A Engenharia de Requisitos é uma disciplina fundamental no desenvolvimento de s
 * **Requisito de Interface:** O sistema de gerenciamento de recursos humanos deve ser capaz de se integrar ao sistema de contabilidade para registrar automaticamente os salários dos funcionários.
 
 * **Requisito de Usuário:** O sistema de agendamento de consultas médicas deve permitir que os pacientes marquem consultas online, visualizem seu histórico médico e recebam lembretes automáticos por e-mail ou SMS.
+* 
 
 <img src="https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-e-um-requisito-funcional-requisitos-de-software-exemplo.png" alt="Imagem de Requisitos Funcionais" width="508px">
 
+
+| Nº UC | Nome da UC                                                      | Descrição                                                                                                                                               |
+|-------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Planejamento do Sistema                                         | Definir os requisitos funcionais e não funcionais do sistema.                                                                                           |
+| 2     | Análise do Sistema                                              | Identificar os atores envolvidos no sistema e seus respectivos papéis.                                                                                  |
+| 3     | Projeto do Sistema                                              | Criar diagramas de classes e sequência para modelar a estrutura e comportamento do sistema.                                                            |
+| 4     | Codificação do Sistema                                          | Escrever código-fonte para implementar as funcionalidades do sistema.                                                                                    |
+| 5     | Teste do Sistema                                                | Realizar testes unitários e de integração para garantir a qualidade do software.                                                                        |
+| 6     | Manutenção do Sistema                                           | Corrigir bugs e implementar melhorias no sistema após sua implantação.                                                                                   |
+| 7     | Gestão de Requisitos                                            | Capturar, analisar e rastrear os requisitos do sistema ao longo do ciclo de vida do projeto.                                                           |
+| 8     | Desenvolvimento de Software                                     | Utilizar uma ferramenta integrada para desenvolver, testar e implantar um aplicativo web.                                                               |
+| 9     | Controle de Qualidade                                           | Realizar revisões de código e testes de desempenho para garantir a qualidade do software.                                                                |
+| 10    | Desenvolvimento de Aplicações Web                              | Utilizar um IDE para editar o código-fonte, depurar e testar uma aplicação web em um único ambiente.                                                    |
+| 11    | Gestão de Projetos de Software                                 | Utilizar uma ferramenta integrada para planejar, monitorar e controlar o progresso de um projeto de software.                                           |
+| 12    | Controle de Versão                                             | Utilizar um sistema de controle de versão para rastrear as alterações no código-fonte e colaborar com outros desenvolvedores.                           |
+| 13    | Prototipagem de Interface de Usuário                           | Criar protótipos de tela para validar o layout e a usabilidade de uma aplicação móvel.                                                                  |
+| 14    | Prototipagem de Fluxo de Funcionalidades                       | Criar protótipos de fluxo de trabalho para visualizar e testar as funcionalidades de um sistema.                                                        |
+| 15    | Validação de Requisitos                                        | Utilizar protótipos interativos para obter feedback dos usuários e validar os requisitos do sistema.                                                    |
+| 16    | Desenvolvimento de Aplicativos Android                         | Utilizar o Android Studio para escrever código Java, compilar e depurar aplicativos Android.                                                           |
+| 17    | Desenvolvimento de Sistemas Web                                | Utilizar o Visual Studio Code para desenvolver aplicativos web com HTML, CSS e JavaScript.                                                              |
+| 18    | Teste de Software                                              | Utilizar o JUnit para escrever e executar testes unitários automatizados em um sistema Java.                                                            |
+| 19    | Análise de Código                                              | Utilizar o SonarQube para analisar a qualidade do código-fonte e identificar possíveis problemas de segurança e desempenho.                          |
+| 20    | Medição de Desempenho                                          | Utilizar o JProfiler para medir e analisar o desempenho de um aplicativo Java em tempo real.                                                            |
+| 21    | Estimativa de Esforço                                           | Utilizar o COCOMO para estimar o esforço e o custo de desenvolvimento de um projeto de software.                                                         |
+| 22    | Planejamento de Projeto                                        | Utilizar o Microsoft Project para criar um cronograma de projeto, alocar recursos e acompanhar o progresso das tarefas.                                   |
+| 23    | Gestão de Tarefas                                               | Utilizar o Trello para criar quadros de tarefas, atribuir responsabilidades e acompanhar o status das atividades do projeto.                              |
+| 24    | Colaboração em Equipe                                          | Utilizar o Google Docs para criar documentos compartilhados, permitindo que múltiplos membros da equipe colaborem simultaneamente.                        |
+| 25    | Documentação Técnica                                           | Utilizar ferramentas como Microsoft Word ou Javadoc para criar documentos técnicos detalhados sobre o projeto de software.                               |
+| 26    | Organização de Documentos                                      | Utilizar ferramentas como Google Drive ou SharePoint para armazenar e organizar documentos relacionados ao projeto.                                       |
+| 27    | Revisão de Documentos                                          | Utilizar ferramentas como Google Docs ou Adobe Acrobat para revisar e aprovar documentos antes da distribuição final.                                     |
