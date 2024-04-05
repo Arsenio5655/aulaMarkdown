@@ -1,4 +1,6 @@
-# Aula prática - Markdown
+# VESÃO 2
+
+# Aula prática - Markdown 
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
