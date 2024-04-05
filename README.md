@@ -1,6 +1,8 @@
-# VESÃO 2
+# VESÃO 3
 
-# Aula prática - Markdown 
+# Aula prática - Markdown
+
+<img src="https://tm.ibxk.com.br/2023/07/07/07141402479224.jpg?ims=1200x675" alt="gi" width="508px">
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
